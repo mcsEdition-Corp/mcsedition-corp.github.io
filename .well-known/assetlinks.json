@@ -1,5 +1,8 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.mcsEdition.afflo",
-               "sha256_cert_fingerprints": ["9F:0E:AB:FF:2F:86:18:E7:6F:28:3A:8D:15:C1:E6:C6:E6:10:D2:91"] }
+  "target" : { 
+    "namespace": "android_app", 
+    "package_name": "com.mcsEdition.afflo",
+    "sha256_cert_fingerprints": ["3681415B36F63B748671B0B1D79716573B2086B8ACFC4529D622070982DF0AD1"] 
+  }
 }]
