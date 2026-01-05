@@ -15,7 +15,8 @@
       "namespace": "android_app",
       "package_name": "com.mcsedition.vibe",
       "sha256_cert_fingerprints": [
-        "FB:70:1F:00:30:70:86:BC:08:E9:6F:61:2E:D9:D5:53:4F:39:5A:56:F6:13:80:ED:0B:F2:4C:2E:B6:F5:6B:F1"
+        "FB:70:1F:00:30:70:86:BC:08:E9:6F:61:2E:D9:D5:53:4F:39:5A:56:F6:13:80:ED:0B:F2:4C:2E:B6:F5:6B:F1",
+        "9E:3B:94:96:6E:11:AC:07:C3:DA:B5:E7:26:03:73:3C:06:13:B9:7D:E8:D4:C4:26:94:92:30:F0:30:94:68:97"
       ]
     }
   }
