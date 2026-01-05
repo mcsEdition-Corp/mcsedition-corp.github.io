@@ -1,8 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-    "namespace": "android_app", 
-    "package_name": "com.mcsEdition.afflo",
-    "sha256_cert_fingerprints": ["3681415B36F63B748671B0B1D79716573B2086B8ACFC4529D622070982DF0AD1"] 
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mcsEdition.afflo",
+      "sha256_cert_fingerprints": [
+        "36:81:41:5B:36:F6:3B:74:86:71:B0:B1:D7:97:16:57:3B:20:86:B8:AC:FC:45:29:D6:22:07:09:82:DF:0A:D1"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mcsedition.vibe",
+      "sha256_cert_fingerprints": [
+        "FB:70:1F:00:30:70:86:BC:08:E9:6F:61:2E:D9:D5:53:4F:39:5A:56:F6:13:80:ED:0B:F2:4C:2E:B6:F5:6B:F1"
+      ]
+    }
   }
-}]
+]
